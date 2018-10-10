@@ -1,0 +1,190 @@
+
+.dropdown:hover > .dropdown-menu
+{
+display: block
+}
+.bg-dark{background:#003c5a!important;}
+.monde{
+    background-image: url(img01.jpg);
+    text-align: center;
+    color:white;
+    margin-top:78px;
+    background-size:cover;
+    height:700px;
+    background-repeat:no-repeat;
+    background-position: 50% 100%;
+
+}
+.bouton{
+    margin-top:50px;
+}
+.wesh{background-color: rgba(237,244,248)}
+.telep{
+vertical-align: right;
+justify-content: end;
+padding-right:0px;
+}
+#couleurbleue{
+    color:#7d7d7d;
+}
+.mondetxt{
+    margin-left:10%;
+    margin-right:10%;
+    padding-top:10%;
+    line-height:400%;
+    margin-bottom:20px;
+}
+
+.etude{text-align:left;
+justify-content: center;
+margin-top:100px;
+}
+}
+.etudetitre{
+    text-align:left;
+    font-size:40;
+    margin-left:10%;
+   
+    
+}
+h3{
+    color:grey
+}
+.hue{
+    padding-top:10px;
+    color:grey;
+}
+.etudetxt{
+    text-align:left;
+    justify-content: center;
+    margin-bottom:150px;
+   padding-top:50px;
+   padding-right:50px;
+   color:grey;
+   
+}
+
+.imgbarbu{
+    padding-top:50px;
+}
+.titreraison{
+margin-top:150px;
+text-align: center;}
+
+.raisons{
+    margin-top:50px;
+}
+.raison1{
+    margin-top:50px;
+}
+.raison2{
+    margin-top:50px;
+}
+.raison3{
+    margin-top:50px;
+}
+.raison4{
+    margin-top:50px;
+}
+.raison5{
+    margin-top:50px;
+    ;
+}
+.raison6{
+    margin-top:50px;
+    margin-bottom:150px;
+}
+.bookcenter{
+    padding-top:100px;
+    padding-bottom:200px;
+}
+.freeemail{
+    text-align:center;
+}
+.emailcourse{
+
+    background-color:rgba(0, 60, 90);
+    text-align:center;
+    padding-bottom:100px;
+    padding-top:100px;
+    color:white;
+    
+   
+}
+h5{
+    font-family: 'Open Sans', arial;
+
+}
+h2{
+    font-family: 'Merriweather', arial;
+}
+
+.formulaire{
+    margin-top:100px;
+    border-radius:24px;
+    border-bottom:0px solid;
+    height:50px;
+    color: #a2a2a2;
+    background-color:#fff;
+}
+}
+.bouton1{
+    margin-top:50px;
+  
+}
+
+.CAROUSSEL
+{
+background-color: #E76E33;
+color: white;
+font-weight: 300;
+font-family: "Merriweather", serif
+}
+.carou
+{
+margin-bottom:3%;
+padding-top: 100px;
+}
+.caroup
+{
+margin-top: 3%;
+font-size: 24px;
+
+}
+.chelou
+{
+
+
+}
+.carousel-indicators
+{
+
+}
+.carousel-indicators li
+{
+width:15px;
+height:15px;
+border-radius:100%;
+
+}
+#demo
+{
+padding-bottom: 150px;
+}
+.barrefooter{background-color:grey;
+width:100%}
+.fa-facebook-f{
+    margin-left:30px;
+}
+.fa-twitter{
+    margin-left:30px;
+}
+.fa-google-plus-g{
+    margin-left:30px;
+}
+.fa-instagram{
+    margin-left:30px;
+}
+.fa-linkedin-in{
+    margin-left:30px;
+}
